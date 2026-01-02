@@ -27,3 +27,4 @@ exclude:
   - .github
   - vendor
   - node_modules # If you use npm/yarn
+  - pages/linkedin-badge.html
